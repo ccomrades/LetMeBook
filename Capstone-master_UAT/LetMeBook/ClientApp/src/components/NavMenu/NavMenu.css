@@ -1,0 +1,30 @@
+
+
+html {
+    font-size: 14px;
+}
+
+/* @media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+} */
+nav{
+    
+    background-color: #E8F5FF;
+}
+
+.navlinks{
+    margin-left: 300px;
+}
+
+
+.linkdesign{
+    padding: 40px;
+    font-weight: bold;
+}
+
+.box-shadow {
+    
+    box-shadow: 50px 50px 50px rgba(0, 0, 0, 0.05);
+}

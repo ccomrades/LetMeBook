@@ -1,0 +1,97 @@
+﻿
+.message {
+   position: absolute;
+    width: 500px;
+    height: 193px;
+    left: 81px;
+    top: 30%;
+    
+}
+
+h1 {
+/*    position: relative;*/
+    width: 555px;
+    height: 115px;
+    left: 81px;
+    top: 365px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 126%;
+    /* or 60px */
+
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #000000;
+}
+.msg {
+/*    position: relative;*/
+
+    left: 81px;
+    top: 494.62px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* or 17px */
+
+    letter-spacing: 0.08em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #616161;
+}
+.msg2 {
+    /*    position: relative;*/
+    top: 494.62px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 16px;
+        /* or 17px */
+    
+        letter-spacing: 0.08em;
+        font-feature-settings: 'pnum' on, 'lnum' on;
+        color: #616161;
+    }
+
+.btn{
+    position: absolute;
+    width: 400px;
+    height: 60px;
+    left: 60px;
+    top: 350px;
+}
+
+button{
+    
+  background-color: #EC5863;
+    font-family: 'Raleway';
+    color: #FCFDFE;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.14em;
+
+    padding: 15px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+
+    
+}
+
+
+
+.group
+{
+    position: absolute;
+    left: 160%;
+    right: 4.9%;
+    top:12px;
+    bottom: 17.18%;
+    width: 350px;
+    height: 553.31px;
+ 
+}

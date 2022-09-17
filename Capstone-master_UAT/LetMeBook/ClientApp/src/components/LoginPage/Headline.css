@@ -1,0 +1,13 @@
+.text{
+  position: absolute;
+  width: 769px;
+  height: 113px;
+  left: 634px;
+  top: 20px;
+
+  font-family: 'Fredoka', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 126%;
+}
